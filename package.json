@@ -1,0 +1,11 @@
+{
+  "name": "testing-sonarqube",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Configure8inc/testing-sonarqube.git",
+  "author": "Matthew Davies <matthew@configure8.io>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}
